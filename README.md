@@ -1,6 +1,6 @@
 # URL-TO-RCLONE-HEROKU-ARIA2
 
-![Aria2Rclone](https://raw.githubusercontent.com/developeranaz/Aria2-Rclone-Remote-Uploader-HEROKU/main/example-imgs/162030099946.jpg)
+![Aria2Rclone](https://raw.githubusercontent.com/abhishekhbhootwala/rclone-uploader/main/example-imgs/162030099946.jpg)
 
 Still under development Please Report issues to improve this repo.I will try to fix bugs in next update.
 
@@ -9,17 +9,17 @@ upload files remotely from url
 
 Heroku oneclick / Rapid deploy method available
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/developeranaz/Aria2-Rclone-Remote-Uploader-HEROKU)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/abhishekhbhootwala/rclone-uploader)
 
 Star my Repository & Support me
 
-## Feel free to post Any [Issues](https://github.com/developeranaz/Aria2-Rclone-Remote-Uploader-HEROKU/issues) And share your ideas , Posting issues would help to improve this repo
+## Feel free to post Any [Issues](https://github.com/abhishekhbhootwala/rclone-uploader/issues) And share your ideas , Posting issues would help to improve this repo
 
 ## How To Deploy ?
 #### Step 1
 * Create a [Heroku](https://dashboard.heroku.com/login) Free account
 * Log in to Heroku in any browser
-* Click on the Rapid deployment button [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/developeranaz/Aria2-Rclone-Remote-Uploader-HEROKU) and deploy app
+* Click on the Rapid deployment button [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/abhishekhbhootwala/rclone-uploader) and deploy app
 #### Step 2 (CONFIG_FILE_IN_URL)
 
 * Generate rclone.conf file from any terminal or cmd or termux .
@@ -53,7 +53,7 @@ Star my Repository & Support me
 ![demo](https://raw.githubusercontent.com/developeranaz/URL-Magnet-Cloud-Uploader-Heroku/main/example-imgs/Screenshot%202021-10-16%20180051.png)
 
 
-![demo0](https://raw.githubusercontent.com/developeranaz/Aria2-Rclone-Remote-Uploader-HEROKU/main/example-imgs/Screenshot_20210513-105759.png)
+![demo0](https://raw.githubusercontent.com/abhishekhbhootwala/rclone-uploader/main/example-imgs/Screenshot_20210513-105759.png)
 
 
 ![demo1](https://raw.githubusercontent.com/developeranaz/URL-Magnet-Cloud-Uploader-Heroku/main/example-imgs/Screenshot%202021-10-16%20180853.png)
@@ -123,7 +123,7 @@ This repo is under development
 
 
 
-##### Donate me BTC: 1J48LksQNiASuj48nwYATXdFzQSwdrnx7c
+##### Follow me FB: fb.me/piash.eee
 
 Thanks to rclone & aria2
 
